@@ -1,0 +1,12 @@
+.box2{
+    color: red;
+    border: 1px solid aqua ;
+    border-radius: 15px;
+    padding: 20px 15px;
+}
+h1{
+    background-color: chartreuse;
+}
+.box1{
+    margin-bottom: 50px;
+}
