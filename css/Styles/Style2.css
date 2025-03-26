@@ -21,3 +21,24 @@ a:hover{
     background-color: transparent;
     text-decoration: underline;
 }
+.sred{
+    color: red;
+}
+.sbac1{
+background-color: red;
+}
+.sblue{
+    color: blue;
+}
+.sbac2{
+background-color: blue;
+}
+.border{
+    border-radius: 5px;
+}
+.syellow{
+    color: #FFA000;
+}
+.textbox{
+    border: 2px solid black;
+}
