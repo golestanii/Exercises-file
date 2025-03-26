@@ -34,7 +34,8 @@ background-color: red;
 background-color: blue;
 }
 .border{
-    border-radius: 5px;
+    border: 2px solid black;
+    border-radius: 6px;
 }
 .syellow{
     color: #FFA000;
