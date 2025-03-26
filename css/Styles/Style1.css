@@ -1,0 +1,11 @@
+table {
+    width: 250px;
+    height: 250px;
+    border: 1px solid;
+    text-align: left;
+    border-spacing: 15px;
+}
+thead , tfoot {
+    background-color: #00BFFF;
+    padding: 50px ;
+}
