@@ -1,3 +1,23 @@
 span{
     color:#757575 ;
 }
+a:link{
+    color: #1565C0 ;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:visited{
+    color: #6A1B9A;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active{
+    color:#F9A825;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:hover{
+    color: #C62828;
+    background-color: transparent;
+    text-decoration: underline;
+}
