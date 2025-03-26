@@ -9,3 +9,6 @@ th{
     height: 40px;
     color: white;
 }
+tr:nth-child(odd) {
+    background-color: #B2EBF2;
+  }
