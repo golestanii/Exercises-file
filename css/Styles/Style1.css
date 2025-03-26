@@ -12,3 +12,9 @@ th{
 tr:nth-child(odd) {
     background-color: #E0F7FA;
   }
+  .footer{
+    z-index: 50;
+    background-color: #00BFFF;
+    height: 40px;
+    color: white;
+  }
