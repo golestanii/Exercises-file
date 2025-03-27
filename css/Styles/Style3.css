@@ -15,38 +15,27 @@ form{
 .box1{
     padding: 12px 20px;
     display: inline-block;
-    border: 1px solid #ccc;
-    border-radius: 4px;
     box-sizing: border-box;
 }
 .box2{
-  border:1px solid rgb(13, 88, 250);
-    padding: 12px 20px;
+    padding: 12px 30px;
     display: inline-block;
-    border: 1px solid #ccc;
-    border-radius: 4px;
     box-sizing: border-box;
 }
 .box3{
-    padding: 12px 20px;
+    padding: 12px 30px;
     display: inline-block;
-    border: 1px solid #ccc;
-    border-radius: 4px;
     box-sizing: border-box;
 }
 .box4{
     width: 65%;
     padding: 12px 20px;
     display: inline-block;
-    border: 1px solid #ccc;
-    border-radius: 4px;
     box-sizing: border-box;
 }
 .box5{
     padding: 12px 20px;
     display: inline-block;
-    border: 1px solid #ccc;
-    border-radius: 4px;
     box-sizing: border-box; 
 }
 .box6{
@@ -54,50 +43,46 @@ form{
     height: 60px;
     padding: 0px 20px;
     display: inline-block;
-    border: 1px solid #ccc;
-    border-radius: 4px;
     box-sizing: border-box;
 }
 .box7{
     width: 32%;
     padding: 12px 20px;
     display: inline-block;
-    border: 1px solid #ccc;
-    border-radius: 4px;
     box-sizing: border-box;
 }
 .box8{
-  border:1px solid rgb(13, 88, 250);
     padding: 12px 20px;
     display: inline-block;
-    border: 1px solid #ccc;
-    border-radius: 4px;
     box-sizing: border-box;
 }
 .box9{
-    padding: 12px 20px;
+    padding: 12px 30px;
     display: inline-block;
-    border: 1px solid #ccc;
-    border-radius: 4px;
     box-sizing: border-box;
 }
 .box10{
     width: 100%;
     padding: 12px 20px;
     display: inline-block;
-    border: 1px solid #ccc;
-    border-radius: 4px;
     box-sizing: border-box;
 }
-/*.box1,
-.box2,
-.box3,
-.box4,
-.box5,
-.box6,
-.box7,
-.box8,
-.box9,
-.box10{
-    
-}*/
+#bio{
+    height: 150px;
+    width: 100%;
+}
+#country ,
+#adres ,
+#pass ,
+#email ,
+#uname ,
+#lname ,
+#fname{
+    height: 30px;
+    width: 100%;
+}
+#city ,
+#zcode{
+    height: 25px;
+    width: 100%;
+}
