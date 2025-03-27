@@ -1,7 +1,6 @@
 .box{
     width: 700px;
-    height: 500px;
-    border:1px solid red;
+    height: 470px;
     position:absolute;
     left:0;
     right:0;
@@ -64,4 +63,23 @@ form{
 #zcode{
     height: 25px;
     width: 100%;
+}
+#pass,
+#uname,
+#email{
+    border: 1px solid #D50000;
+    border-radius:3px  ;
+    background-color: #EF9A9A ;
+}
+.box5,
+.box3,
+.box4{
+    color: red;
+}
+input,
+select,
+textarea{
+    border: 1px solid #33691e;
+    border-radius:3px  ;
+    background-color: #AED581;
 }
