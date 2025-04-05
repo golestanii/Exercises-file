@@ -25,4 +25,5 @@ img{
     height: 250px;
     border: 5px Dashed #FF9800;
     background-color: yellow;
+    overflow-y:scroll;
 }
