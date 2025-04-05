@@ -1,4 +1,4 @@
-.header{
+.Header{
     height: 60px;
     background-color: #0288D1;
     color: #fff;
@@ -55,4 +55,9 @@
     position: absolute;
     top:430px;
     padding: 20px;
+}
+.Footer{
+    height: 40px;
+    background-color: #212121;
+    
 }
