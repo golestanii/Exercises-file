@@ -26,6 +26,7 @@ img{
     border: 5px Dashed #FF9800;
     background-color: yellow;
     overflow-y:scroll;
+    padding-left: 5px;
 }
 a{
     color: black;
